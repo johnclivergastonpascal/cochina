@@ -1,0 +1,5 @@
+// img == "image"
+// tit == "title"
+// des == "description"
+// pro == "productos"
+// ifr == "iframe video"
